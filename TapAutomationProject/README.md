@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚰 AutoTap System – Smart Touchless Water Control
 
 ## 🔍 Overview
@@ -146,10 +146,4 @@ if (digitalRead(IR_PIN) == HIGH || voiceCommand == "on") {
 
 ---
 
-## 🙏 Acknowledgment
 
-We would like to express our gratitude to our project guide, faculty members, and teammates for their continuous support and feedback. Special thanks to the developers of the Gemini API and open-source contributors for enabling AI-based voice control.
-=======
-# AutoTap-IndoorGuide-IoT-based--project-
-An IoT-based integrated system using ESP32 that combines a smart touchless water tap with an indoor navigation aid for visually impaired individuals.
->>>>>>> 99e52997fff88fb959a7d4c11fbb5768b13ef41a
